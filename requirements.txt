@@ -1,0 +1,5 @@
+Pillow
+pdf2image
+img2pdf
+pdfrw
+watchdog
