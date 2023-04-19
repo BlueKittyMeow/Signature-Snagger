@@ -4,6 +4,7 @@
 import img2pdf
 import pdfrw
 from pdf2image import convert_from_path
+import os
 
 # Convert signature image to PDF
 def convert_signature_image_to_pdf(signature_image_path, signature_pdf_path):
